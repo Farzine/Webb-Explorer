@@ -1,0 +1,49 @@
+{
+  "name": "arces_2024",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.3.1",
+    "@types/axios": "^0.14.0",
+    "arces_2024": "file:",
+    "axios": "^1.7.2",
+    "date-fns": "^3.6.0",
+    "embla-carousel": "^8.2.1",
+    "embla-carousel-react": "^8.2.1",
+    "isomorphic-unfetch": "^4.0.2",
+    "js-cookie": "^3.0.5",
+    "lucide-react": "^0.407.0",
+    "moment": "^2.30.1",
+    "next": "^14.2.5",
+    "next-cloudinary": "^6.6.2",
+    "react": "^18",
+    "react-datepicker": "^7.2.0",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-image": "^4.1.0",
+    "react-router-dom": "^6.24.0",
+    "react-time-picker": "^7.0.0",
+    "react-toastify": "^10.0.5",
+    "shadcn-ui": "^0.2.3",
+    "sitemap": "^8.0.0",
+    "tailwind-merge": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5"
+  }
+}
