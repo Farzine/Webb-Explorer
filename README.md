@@ -1,1 +1,1 @@
-# Webb-Explorer
+# Webb-Explorer : An interactive tool to engage with JWST data
