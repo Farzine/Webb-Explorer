@@ -18,7 +18,7 @@ export default function Home() {
         quality={100}
       />
       <Navbar />
-       <div className="w-full flex justify-center opacity-50">
+       <div className="w-full flex justify-center bg-opacity-80">
           <RobotWrapper />
         </div>
       <div className="absolute inset-0 flex items-start px-10 mt-48 -z-10">
