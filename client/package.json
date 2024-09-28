@@ -1,5 +1,5 @@
 {
-  "name": "arces_2024",
+  "name": "webb_explorer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,12 +29,15 @@
     "react-dom": "^18",
     "react-icons": "^5.2.1",
     "react-image": "^4.1.0",
+    "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.24.0",
     "react-time-picker": "^7.0.0",
     "react-toastify": "^10.0.5",
     "shadcn-ui": "^0.2.3",
     "sitemap": "^8.0.0",
-    "tailwind-merge": "^2.4.0"
+    "tailwind-merge": "^2.4.0",
+    "webb_explorer": "file:",
+    "Webb_Explorer": "file:"
   },
   "devDependencies": {
     "@types/js-cookie": "^3.0.6",

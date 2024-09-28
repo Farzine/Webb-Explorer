@@ -1,6 +1,5 @@
 "use client";
 
-import Earth from "@/components/earth";
 import RobotWrapper from "@/components/robot-wrapper";
 import Navbar from "@/components/navbar";
 import SpaceExplore from "@/components/ExplorNow";
@@ -18,7 +17,7 @@ export default function Home() {
         quality={100}
       />
       <Navbar />
-       <div className="w-full flex justify-center bg-opacity-80">
+       <div className="w-full flex justify-center bg-opacity-40">
           <RobotWrapper />
         </div>
       <div className="absolute inset-0 flex items-start px-10 mt-48 -z-10">
